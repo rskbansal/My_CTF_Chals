@@ -111,7 +111,7 @@ But what did we miss, which will lead us to the 2nd part of the flag? The commit
 Did you get Rick Rolled? :P  
 I am really sorry for that but the video doesn't really seem to be of much importance. Infact, theres is no other video or community posts on the channel. So, lets try to find something else.
 <br><br>
-The only other stuff that we found on the channel was it's `r/Place` channel banner. But, it's possible that we are only seeing a part of it. So, lets use some [3rd party tool](https://backlinkvalidator.com/tools/download_youtube_thumbnail.php) to scrape out the banner.
+The only other stuff that we found on the channel was it's ***r/Place*** channel banner. But, it's possible that we are only seeing a part of it. So, lets use some [3rd party tool](https://backlinkvalidator.com/tools/download_youtube_thumbnail.php) to scrape out the banner.
 <br><br>
 On downloading the banner, we get the following image:
 
